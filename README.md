@@ -7,8 +7,7 @@ Feel free to watch over or fork any of my code and I'm open to collaboration or 
 
 ### My web dev setup 
 
-
- ![laravel-light](https://github.com/skip2435/skip2435/assets/51299590/8caa987d-77cb-4776-b966-d95cc1cb65b5) Most of my current web projects are done using the Laravel PHP Framework.
+![laravel (3)](https://github.com/skip2435/skip2435/assets/51299590/1d90b08c-2cb2-47b9-811f-cc4f9b151bd9) Most of my current web projects are done using the Laravel PHP Framework.
 
 
 ![vue](https://github.com/skip2435/skip2435/assets/51299590/2215126d-1f87-4196-bd75-96d65538384b) Vue.js for the front end JavaScript framework.
